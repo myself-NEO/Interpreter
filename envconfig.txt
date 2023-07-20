@@ -1,0 +1,5 @@
+## Replace this file with .env file with your key
+
+KEY=YOUR_AZURE_KEY
+ENDPOINT=https://api.cognitive.microsofttranslator.com/
+LOCATION=centralindia
